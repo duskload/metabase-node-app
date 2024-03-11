@@ -1,11 +1,11 @@
 
-## To install
+## Installation
 ```
 yarn install && yarn start
 ```
 
-## To start
+## How to start an app
 
 ```
-METABASE_SITE_URL=site url here METABASE_SECRET_KEY=site secret yarn start
+METABASE_SITE_URL=site_url METABASE_SECRET_KEY=site_secret yarn start
 ```
